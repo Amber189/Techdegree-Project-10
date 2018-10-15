@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+body{
+  background-color: #ECEAEA;
+}
+
+li {
+  border: solid 1px silver;
+
+}
